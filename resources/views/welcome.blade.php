@@ -51,14 +51,14 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="/proyectos">Proyectos</a>
                                 </li>
-                                <li class="nav-item">
+                                <!--li class="nav-item">
                                     <a class="nav-link" href="/tums">TUMS</a>
-                                </li>
+                                </li-->
                                 <li class="nav-item">
                                     <a class="nav-link" href="/urgencias-medicas">Urgencias Médicas</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/sexto">Sexto</a>
+                                    <a class="nav-link" href="/sexto">Primera Gen</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="/mdfpp">MDFPP</a>
@@ -320,7 +320,7 @@
     <!--::regervation_part end::-->
 
     <!--::doctor_part start::-->
-    <section class="doctor_part section_padding">
+    <!--section class="doctor_part section_padding">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-8">
@@ -409,11 +409,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section-->
     <!--::doctor_part end::-->
 
     <!-- intro_video_bg start-->
-    <section class="intro_video_bg">
+    <!--section class="intro_video_bg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -428,7 +428,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section-->
     <!-- intro_video_bg part start-->
 
     <!--::blog_part start::-->
@@ -453,9 +453,9 @@
                                     <li> <span class="ti-bookmark"></span>Urgencias Médicas</li>
                                 </ul>
                                 <a href="blog.html">
-                                    <h5 class="card-title">Blog 1</h5>
+                                    <h5 class="card-title">Inmovilización y su utilidad actuálmente</h5>
                                 </a>
-                                <a href="#" class="blog_btn">Más</a>
+                                <a href="#" class="genric-btn primary">Más</a>
 
                             </div>
                         </div>
@@ -471,9 +471,9 @@
                                     <li> <span class="ti-bookmark"></span>Urgencias Médicas</li>
                                 </ul>
                                 <a href="blog.html">
-                                    <h5 class="card-title">Blog 2</h5>
+                                    <h5 class="card-title">Stop the bleed</h5>
                                 </a>
-                                <a href="#" class="blog_btn">Más</a>
+                                <a href="#" class="genric-btn primary">Más</a>
 
                             </div>
                         </div>
@@ -489,9 +489,9 @@
                                     <li> <span class="ti-bookmark"></span>Urgencias Médicas</li>
                                 </ul>
                                 <a href="blog.html">
-                                    <h5 class="card-title">Blog 3</h5>
+                                    <h5 class="card-title">DEAs en lugares públicos</h5>
                                 </a>
-                                <a href="#" class="blog_btn">Más</a>
+                                <a href="#" class="genric-btn primary">Más</a>
 
                             </div>
                         </div>
@@ -508,46 +508,46 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-2 col-sm-4 mb-4 mb-xl-0 single-footer-widget">
-                        <h4>Links</h4>
+                        <h4>Tiendas de Equipo</h4>
                         <ul>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
+                            <li><a target="_blank" href="https://www.emsmex.com/">ESM MÉXICO</a></li>
+                            <li><a target="_blank" href="https://www.511tactical.com/">5.11 TACTICAL</a></li>
+                            <li><a target="_blank" href="https://www.lancetahg.com.mx/">LANCETA HG</a></li>
+                            <!--li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li-->
                         </ul>
                     </div>
                     <div class="col-xl-2 col-sm-4 mb-4 mb-xl-0 single-footer-widget">
-                        <h4>Links</h4>
+                        <h4>Cursos</h4>
                         <ul>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
+                            <li><a target="_blank" href="https://www.vidacem.com.mx/">VIDACEM</a></li>
+                            <li><a target="_blank" href="http://escuelasos.com.mx/page/capacitacion/salud/">SOS Escuela de Emergencias</a></li>
+                            <li><a target="_blank" href="http://ediccollege.edu/tecnico-de-emergencias-medicas/">EDIC College</a></li>
+                            <!--li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li-->
                         </ul>
                     </div>
 
                     <div class="col-xl-2 col-sm-4 mb-4 mb-xl-0 single-footer-widget">
-                        <h4>Links</h4>
+                        <h4>Recomendadas</h4>
                         <ul>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Linkn</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
+                            <li><a target="_blank" href="https://www.heart.org/">HEART.org</a></li>
+                            <li><a target="_blank" href="http://www.ecured.cu/Param%C3%A9dico">EcuRed</a></li>
+                            <li><a target="_blank" href="https://www.cruzrojamexicana.org.mx/">Cruz Roja Mexicana</a></li>
+                            <!--li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li-->
                         </ul>
                     </div>
-                    <div class="col-xl-2 col-sm-4 mb-4 mb-xl-0 single-footer-widget">
+                    <!--div class="col-xl-2 col-sm-4 mb-4 mb-xl-0 single-footer-widget">
                         <h4>Links</h4>
                         <ul>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
-                            <li><a href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li>
+                            <li><a target="_blank" href="#">Link</a></li>
                         </ul>
-                    </div>
+                    </div-->
                     <div class="col-xl-4 col-sm-8 col-md-8 mb-4 mb-xl-0 single-footer-widget">
                         <h4>Boletín</h4>
                         <p>Recibe información actualizada sobre protocolos y técnicas adecuadas en tu correo electrónico.</p>
