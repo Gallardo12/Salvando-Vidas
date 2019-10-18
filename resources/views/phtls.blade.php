@@ -119,6 +119,8 @@
     </section>
     <!-- our_ability part end-->
 
+    <iframe src ="{{ asset('/laraview/#../pdf/ReanimacionCardioPulmonarBasico.pdf') }}" width="1000px" height="600px"></iframe>
+
     <!--::review_part start::-->
     <!--section class="review_part">
         <div class="container">
