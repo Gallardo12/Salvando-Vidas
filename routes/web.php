@@ -39,3 +39,14 @@ Route::get('/mdfpp', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+// Blog
+Route::get('/el-fin-del-yeso-para-inmovilizar-extremidades', function () {
+    return view('blogs.blog1');
+});
+Route::get('/stop-the-bleed', function () {
+    return view('blogs.blog2');
+});
+Route::get('/deas-en-lugares-publicos', function () {
+    return view('blogs.blog3');
+});

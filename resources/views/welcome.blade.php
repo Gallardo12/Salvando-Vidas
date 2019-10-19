@@ -389,9 +389,9 @@
                                 <li> <span class="ti-bookmark"></span>Urgencias Médicas</li>
                             </ul>
                             <a href="blog.html">
-                                <h5 class="card-title">Inmovilización y su utilidad actuálmente</h5>
+                                <h5 class="card-title">¿El fin del yeso para inmovilizar extremidades?</h5>
                             </a>
-                            <a href="#" class="genric-btn primary">Más</a>
+                            <a href="/el-fin-del-yeso-para-inmovilizar-extremidades" class="genric-btn primary">Más</a>
 
                         </div>
                     </div>
@@ -409,7 +409,7 @@
                             <a href="blog.html">
                                 <h5 class="card-title">Stop the bleed</h5>
                             </a>
-                            <a href="#" class="genric-btn primary">Más</a>
+                            <a href="/stop-the-bleed" class="genric-btn primary">Más</a>
 
                         </div>
                     </div>
@@ -427,7 +427,7 @@
                             <a href="blog.html">
                                 <h5 class="card-title">DEAs en lugares públicos</h5>
                             </a>
-                            <a href="#" class="genric-btn primary">Más</a>
+                            <a href="/deas-en-lugares-publicos" class="genric-btn primary">Más</a>
 
                         </div>
                     </div>
