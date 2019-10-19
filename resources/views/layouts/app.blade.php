@@ -195,6 +195,8 @@
     <!-- custom js -->
     <script src="{{ asset('js/custom.js') }}"></script>
 
+    <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+
     @yield('javascript')
 </body>
 

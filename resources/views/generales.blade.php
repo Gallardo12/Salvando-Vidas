@@ -3,57 +3,116 @@
 @section('title', ' - Generales')
 
 @section('content')
+<!-- breadcrumb start-->
+<section class="breadcrumb breadcrumb_bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb_iner">
+                    <div class="breadcrumb_iner_item">
+                        <h2>Generales</h2>
+                        <p>Home<span>/</span>Generales</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- breadcrumb start-->
 
-    <!-- breadcrumb start-->
-    <section class="breadcrumb breadcrumb_bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="breadcrumb_iner">
-                        <div class="breadcrumb_iner_item">
-                            <h2>Generales</h2>
-                            <p>Inicio<span>/</span>Generales</p>
+
+<!--================Blog Area =================-->
+<section class="blog_area section_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mb-5 mb-lg-0">
+                <div class="blog_left_sidebar">
+
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/pdf5.png" alt="">
+                            <a href="#" class="blog_item_date">
+                                <h3>1</h3>
+                                <p>PDF</p>
+                            </a>
                         </div>
-                    </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="pdf/generales/el-bienestar-de-tum.pdf">
+                                <h2>El Bienestar de TUM</h2>
+                            </a>
+                            <p>Son los procedimientos inmediatos y temporales que se le dan a una persona accidentada o que ha sufrido una enfermedad repentina.</p>
+                        </div>
+                    </article>
+
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/pdf6.png" alt="">
+                            <a href="#" class="blog_item_date">
+                                <h3>2</h3>
+                                <p>PDF</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="pdf/generales/evaluacion-del-paciente.pdf">
+                                <h2>Evaluación del paciente</h2>
+                            </a>
+                            <p>Cuando la víctima de un accidente no está consciente, lo más indicado es seguir la técnica ABC (Airway, Breath, Circulation) que consiste en: Apertura de la vía aérea. Búsqueda de la respiración. Circulación.</p>
+                        </div>
+                    </article>
+
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/pdf7.png" alt="">
+                            <a href="#" class="blog_item_date">
+                                <h3>3</h3>
+                                <p>PDF</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="pdf/generales/evaluacion-inicial.pdf">
+                                <h2>Evaluación Inicial</h2>
+                            </a>
+                            <p>La evaluación inicial de un accidentado consiste en realizar una valoración global de su estado, con el objetivo de determinar el alcance de sus lesiones, para establecer las prioridades de actuación y adoptar las medidas necesarias en cada caso.</p>
+                        </div>
+                    </article>
+
+                    <article class="blog_item">
+                        <div class="blog_item_img">
+                            <img class="card-img rounded-0" src="img/blog/pdf8.png" alt="">
+                            <a href="#" class="blog_item_date">
+                                <h3>4</h3>
+                                <p>PDF</p>
+                            </a>
+                        </div>
+                        <div class="blog_details">
+                            <a class="d-inline-block" href="pdf/generales/manejo-basico-de-la-via-aerea.pdf">
+                                <h2>Manejo básico de la vía aerea</h2>
+                            </a>
+                            <p>En anatomía, y en medicina en general, se conoce como vías aéreas a la parte superior del aparato respiratorio. Es la parte por la que discurre el aire en dirección a los pulmones, donde se realizará el intercambio gaseoso.</p>
+                        </div>
+                    </article>
+
+                    <article class="blog_item">
+                            <div class="blog_item_img">
+                                <img class="card-img rounded-0" src="img/blog/pdf9.png" alt="">
+                                <a href="#" class="blog_item_date">
+                                    <h3>5</h3>
+                                    <p>PDF</p>
+                                </a>
+                            </div>
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="pdf/generales/signologia.pdf">
+                                    <h2>Signología</h2>
+                                </a>
+                                <p>La rápida actuación ante un accidente puede salvar la vida de una persona o evitar el empeoramiento de las posibles lesiones que padezca.</p>
+                            </div>
+                        </article>
+
                 </div>
             </div>
         </div>
-    </section>
-    <!-- breadcrumb start-->
+    </div>
+</section>
+<!--================Blog Area =================-->
 
-    <!-- our_ability part start-->
-    <section class="our_ability section_padding">
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-md-6 col-lg-6">
-                    <div class="our_ability_img">
-                        <img src="img/ability_img.png" alt="">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-5">
-                    <div class="our_ability_member_text">
-                        <h2>Our Patients
-                            Are at the Centre of
-                            Everything We Do</h2>
-                        <p>Kind lesser bring said midst they're created signs made the beginni years
-                            created Beast upon whales herb seas evening she'd day green dominion
-                            evening in moved have fifth in won't in darkness fruitful god behold
-                            whos without bring created creature.</p>
-                        <ul>
-                            <li><span class="ti-mouse"></span>Modern Technology</li>
-                            <li><span class="ti-heart-broken"></span>Worldclass Facilities</li>
-                            <li><span class="ti-package"></span>Experienced Nurse</li>
-                            <li><span class="ti-headphone-alt"></span>24 Hours Support</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- our_ability part end-->
-
-    @endsection
-
-@section('javascript')
-    <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.2.228/build/pdf.min.js"></script>
 @endsection
