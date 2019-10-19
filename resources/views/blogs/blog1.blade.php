@@ -98,7 +98,7 @@
                             <a href="#">
                                 <h4>Jesús Soto</h4>
                             </a>
-                            <p>Descripción</p>
+                            <p>Pasante de la Primera Generación de Técnico en Urgencias Médicas por el Instituto La Luz, Delegación Durango de la Cruz Roja Mexicana.</p>
                         </div>
                     </div>
                 </div>
