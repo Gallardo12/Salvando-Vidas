@@ -35,3 +35,7 @@ Route::get('/sexto', function () {
 Route::get('/mdfpp', function () {
     return view('mdfpp');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
