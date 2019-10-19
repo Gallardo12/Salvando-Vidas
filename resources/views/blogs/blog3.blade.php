@@ -60,7 +60,7 @@
                         </p>
                         <div class="quote-wrapper">
                             <div class="quotes">
-                                    "A pesar de la reducción general en la frecuencia de causas desfibrilables de paro cardiaco, los desfibriladores externos automáticos son potencialmente de gran valor en un lugar público. Tanto en el hogar como en un lugar público, llamar al 911 y realizar la reanimación cardiopulmonar salva vidas", señaló Weisfeldt.
+                                "A pesar de la reducción general en la frecuencia de causas desfibrilables de paro cardiaco, los desfibriladores externos automáticos son potencialmente de gran valor en un lugar público. Tanto en el hogar como en un lugar público, llamar al 911 y realizar la reanimación cardiopulmonar salva vidas", señaló Weisfeldt.
                             </div>
                         </div>
                     </div>
