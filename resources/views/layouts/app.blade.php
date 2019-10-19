@@ -34,7 +34,7 @@
 
 <body>
     <!--::header part start::-->
-    <header class="main_menu home_menu">
+    <header class="main_menu @yield('navbar')">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -194,6 +194,8 @@
     <script src="{{ asset('js/contact.js') }}"></script>
     <!-- custom js -->
     <script src="{{ asset('js/custom.js') }}"></script>
+
+    @yield('javascript')
 </body>
 
 </html>

@@ -2,6 +2,10 @@
 
 @section('title', ' - Inicio')
 
+@section('navbar')
+    home_menu
+@endsection
+
 @section('content')
 
 <!-- banner part start-->
@@ -433,4 +437,5 @@
     </div>
 </section>
 <!--::blog_part end::-->
+
 @endsection

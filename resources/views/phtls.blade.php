@@ -51,5 +51,8 @@
     </section>
     <!-- our_ability part end-->
 
-    <iframe src ="{{ asset('/laraview/#../pdf/ReanimacionCardioPulmonarBasico.pdf') }}" width="1000px" height="600px"></iframe>
+@endsection
+
+@section('javascript')
+    <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.2.228/build/pdf.min.js"></script>
 @endsection
