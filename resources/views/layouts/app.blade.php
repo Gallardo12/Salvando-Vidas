@@ -62,7 +62,7 @@
                                     <a class="nav-link" href="/urgencias-medicas">Urgencias Médicas</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/sexto">Primera Gen</a>
+                                    <a class="nav-link" href="/primera-gen">Primera Gen</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="/mdfpp">MDFPP</a>

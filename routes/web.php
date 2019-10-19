@@ -29,8 +29,8 @@ Route::get('/tums', function () {
 Route::get('/urgencias-medicas', function () {
     return view('urgencias');
 });
-Route::get('/sexto', function () {
-    return view('sexto');
+Route::get('/primera-gen', function () {
+    return view('primera-gen');
 });
 Route::get('/mdfpp', function () {
     return view('mdfpp');
